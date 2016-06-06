@@ -6,7 +6,10 @@
   <link rel="stylesheet" type="text/css" href="style.css">
   <title>My WebApp</title>
 </head>
+
 <body>
+<div class="tap red">Tap to play</div>
+<div class="tap blue">Tap to play</div>
   <!-- Your code starts here -->
 
   <!-- and ends here -->
